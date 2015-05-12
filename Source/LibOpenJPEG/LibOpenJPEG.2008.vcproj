@@ -505,7 +505,7 @@
 				>
 			</File>
 			<File
-				RelativePath="image.c"
+				RelativePath="opj_image.c"
 				>
 				<FileConfiguration
 					Name="Release|Win32"
